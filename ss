@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ولا غلطة | تأجير وتنظيم حفلات ومناسبات في الدمام والخبر والمنطقة الشرقية</title>
+<meta name="description" content="ولا غلطة لتأجير وتجهيز وتنظيم الحفلات والمناسبات: خيام أوروبية، مكيفات، كراسي وطاولات VIP، كوشات أفراح، زل وإنارة في الدمام والخبر والظهران والقطيف والجبيل وسيهات والأحساء وبقيق.">
+<meta name="keywords" content="تأجير خيام أوروبية, تأجير كراسي, تأجير طاولات, تأجير مكيفات صحراوية, تأجير كوشات أفراح, تنظيم حفلات الدمام, تجهيز مناسبات الخبر, تأجير زل, ولا غلطة">
+<link rel="canonical" href="https://walagaltah.store/">
+<link rel="icon" href="https://i.postimg.cc/k5CkLGGS/57638653-95a2-40bf-b3d6-0821b012de0d.jpg">
+<meta property="og:title" content="ولا غلطة | تأجير وتنظيم حفلات ومناسبات">
+<meta property="og:image" content="https://i.postimg.cc/k5CkLGGS/57638653-95a2-40bf-b3d6-0821b012de0d.jpg">
+<meta property="og:locale" content="ar_SA">
+<meta name="theme-color" content="#14213d">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&family=Reem+Kufi:wght@500;700&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"LocalBusiness","name":"ولا غلطة","url":"https://walagaltah.store/","logo":"https://i.postimg.cc/k5CkLGGS/57638653-95a2-40bf-b3d6-0821b012de0d.jpg","image":"https://i.postimg.cc/k5CkLGGS/57638653-95a2-40bf-b3d6-0821b012de0d.jpg","telephone":"+966540828049","description":"تأجير وتجهيز وتنظيم الحفلات والمناسبات والأعراس في المنطقة الشرقية.","priceRange":"$$","address":{"@type":"PostalAddress","addressRegion":"المنطقة الشرقية","addressCountry":"SA"},"areaServed":["الدمام","الخبر","الظهران","القطيف","الجبيل","سيهات","الأحساء","بقيق"],"sameAs":["https://wa.me/966540828049"]}
+</script>
+<style>
+:root{--navy:#14213d;--navy2:#1d2f55;--brass:#c9a24b;--brass2:#e6c777;--ivory:#fbf8f1;--ink:#1b1f2a;--mute:#5d6577}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:76px}
+body{font-family:'Tajawal',sans-serif;background:var(--ivory);color:var(--ink);line-height:1.8;font-size:17px}
+h1,h2,h3{font-family:'Reem Kufi','Tajawal',sans-serif;line-height:1.35}
+a{color:inherit;text-decoration:none}
+:focus-visible{outline:3px solid var(--brass);outline-offset:3px}
+header{position:sticky;top:0;z-index:50;background:var(--navy);color:#fff;border-bottom:3px solid var(--brass)}
+.bar{max-width:1180px;margin:auto;padding:8px 18px;display:flex;align-items:center;gap:14px}
+.brand{display:flex;align-items:center;gap:12px;margin-inline-end:auto}
+.brand img{width:52px;height:52px;border-radius:50%;object-fit:cover;border:2px solid var(--brass);background:#fff}
+.brand b{font-family:'Reem Kufi';font-size:1.5rem;color:var(--brass2);line-height:1.1}
+.brand small{display:block;font-size:.78rem;color:#cfd6e6}
+nav{display:flex;gap:22px;font-weight:500}
+nav a:hover{color:var(--brass2)}
+.hero{position:relative;color:#fff;background:var(--navy) center/cover;min-height:78vh;display:grid;place-items:center;text-align:center;padding:70px 20px}
+.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,33,61,.82),rgba(20,33,61,.62) 55%,rgba(20,33,61,.9))}
+.hero>div{position:relative;max-width:820px}
+.hero img.lg{width:132px;height:132px;border-radius:50%;object-fit:cover;border:4px solid var(--brass);background:#fff;margin-bottom:18px}
+.hero h1{font-size:clamp(2.2rem,6vw,3.8rem);color:var(--brass2)}
+.hero p{font-size:1.2rem;margin:14px auto 28px;max-width:640px;color:#eef1f8}
+.btns{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+.btn{padding:13px 28px;border-radius:999px;font-weight:700;border:2px solid var(--brass);transition:background .2s,color .2s}
+.btn.p{background:var(--brass);color:var(--navy)}
+.btn.p:hover{background:var(--brass2)}
+.btn.s{color:#fff}
+.btn.s:hover{background:rgba(255,255,255,.12)}
+section{padding:64px 18px}
+.w{max-width:1180px;margin:auto}
+.ttl{text-align:center;margin-bottom:34px}
+.ttl h2{font-size:clamp(1.7rem,4vw,2.4rem);color:var(--navy)}
+.ttl p{color:var(--mute);max-width:620px;margin:8px auto 0}
+.ttl::after{content:"";display:block;width:70px;height:4px;background:var(--brass);margin:16px auto 0}
+.grp{display:grid;grid-template-columns:minmax(260px,5fr) 7fr;gap:30px;align-items:center;margin-bottom:56px}
+.grp:nth-child(even){direction:ltr}
+.grp:nth-child(even)>*{direction:rtl}
+.grp h3{font-size:1.6rem;color:var(--navy);margin-bottom:12px}
+.chips{display:flex;flex-wrap:wrap;gap:9px}
+.chips span{background:#fff;border:1px solid #e2d6b4;border-radius:8px;padding:6px 14px;font-weight:500;color:var(--navy2)}
+.strip{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.strip img:first-child{grid-column:span 2;height:250px}
+.strip img{width:100%;height:150px;object-fit:cover;border-radius:10px;background:#e9e4d6}
+.dark{background:var(--navy);color:#fff}
+.dark .ttl h2{color:var(--brass2)}
+.dark .ttl p{color:#cfd6e6}
+.cities{display:flex;flex-wrap:wrap;gap:12px;justify-content:center}
+.cities span{border:1px solid var(--brass);color:var(--brass2);padding:9px 24px;border-radius:999px;font-weight:700;font-size:1.05rem}
+.gal{columns:4 220px;column-gap:12px}
+.gal img{width:100%;display:block;margin-bottom:12px;border-radius:10px;background:#e9e4d6;transition:opacity .2s}
+.gal img:hover{opacity:.88}
+.cta{text-align:center}
+.cta h2{font-size:clamp(1.8rem,4vw,2.5rem);color:var(--brass2)}
+.cta p{margin:10px 0 26px;font-size:1.15rem}
+.num{display:block;font-family:'Reem Kufi';font-size:2rem;color:#fff;margin-top:20px;direction:ltr}
+footer{background:#0d1629;color:#aab3c7;text-align:center;padding:26px 18px 90px;font-size:.92rem}
+.fx{position:fixed;bottom:18px;z-index:60;width:60px;height:60px;border-radius:50%;box-shadow:0 5px 14px rgba(0,0,0,.35);display:block;transition:transform .2s}
+.fx:hover{transform:scale(1.08)}
+.fx img{width:100%;height:100%;border-radius:50%}
+.fx.call{right:18px}
+.fx.wa{left:18px}
+#top{position:fixed;bottom:22px;left:50%;transform:translateX(-50%) translateY(20px);width:50px;height:50px;border-radius:50%;border:2px solid var(--brass);background:var(--navy);color:var(--brass2);cursor:pointer;z-index:60;opacity:0;pointer-events:none;transition:opacity .25s,transform .25s;display:grid;place-items:center}
+#top.show{opacity:1;pointer-events:auto;transform:translateX(-50%)}
+#top svg{width:24px;height:24px}
+@media(max-width:820px){nav{display:none}.grp{grid-template-columns:1fr}.grp:nth-child(even){direction:rtl}.strip img:first-child{height:210px}.fx{width:54px;height:54px}section{padding:46px 16px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <a class="brand" href="#top-anchor" aria-label="ولا غلطة - الرئيسية">
+      <img src="https://i.postimg.cc/k5CkLGGS/57638653-95a2-40bf-b3d6-0821b012de0d.jpg" alt="شعار ولا غلطة لتأجير وتنظيم الحفلات" width="52" height="52">
+      <span><b>ولا غلطة</b><small>للحفلات والمناسبات</small></span>
+    </a>
+    <nav>
+      <a href="#services">خدماتنا</a>
+      <a href="#areas">مناطق التغطية</a>
+      <a href="#gallery">معرض الأعمال</a>
+      <a href="#contact">تواصل معنا</a>
+    </nav>
+  </div>
+</header>
+ 
+<main id="top-anchor">
+<div class="hero" id="hero">
+  <div>
+    <img class="lg" src="https://i.postimg.cc/k5CkLGGS/57638653-95a2-40bf-b3d6-0821b012de0d.jpg" alt="لوجو ولا غلطة" width="132" height="132">
+    <h1>ولا غلطة</h1>
+    <p>تأجير وتجهيز وتنظيم الحفلات والمناسبات والأعراس في الدمام والخبر وجميع مدن المنطقة الشرقية.</p>
+    <div class="btns">
+      <a class="btn p" href="https://wa.me/966540828049?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%D8%8C%20%D8%A3%D8%A8%D8%BA%D9%89%20%D8%A7%D8%B3%D8%AA%D9%81%D8%B3%D8%A7%D8%B1" target="_blank" rel="noopener">اطلب عبر واتساب</a>
+      <a class="btn s" href="tel:0540828049">اتصل الآن</a>
+    </div>
+  </div>
+</div>
+ 
+<section id="services">
+  <div class="w">
+    <div class="ttl"><h2>خدماتنا</h2><p>كل ما تحتاجه مناسبتك من تأجير وتجهيز وتنظيم، بتوصيل وتركيب.</p></div>
+    <div id="groups"></div>
+  </div>
+</section>
+ 
+<section class="dark" id="areas">
+  <div class="w">
+    <div class="ttl"><h2>نخدم المنطقة الشرقية</h2><p>نوصل لمناسبتك أينما كانت.</p></div>
+    <div class="cities">
+      <span>الدمام</span><span>الخبر</span><span>الظهران</span><span>القطيف</span><span>الجبيل</span><span>سيهات</span><span>الأحساء</span><span>بقيق</span>
+    </div>
+  </div>
+</section>
+ 
+<section id="gallery">
+  <div class="w">
+    <div class="ttl"><h2>من أعمالنا</h2><p>لقطات من مناسبات جهزناها.</p></div>
+    <div class="gal" id="gal"></div>
+  </div>
+</section>
+ 
+<section class="dark cta" id="contact">
+  <div class="w">
+    <h2>جهّز مناسبتك معنا</h2>
+    <p>أرسل لنا نوع المناسبة والموقع والتاريخ، ونرد عليك بالعرض.</p>
+    <div class="btns">
+      <a class="btn p" href="https://wa.me/966540828049" target="_blank" rel="noopener">واتساب</a>
+      <a class="btn s" href="tel:0540828049">اتصال</a>
+    </div>
+    <a class="num" href="tel:0540828049">0540828049</a>
+  </div>
+</section>
+</main>
+ 
+<footer>© 2026 ولا غلطة لتأجير وتنظيم الحفلات والمناسبات | walagaltah.store</footer>
+ 
+<a class="fx call" href="tel:0540828049" aria-label="اتصل بنا"><img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" alt="اتصال" width="60" height="60"></a>
+<a class="fx wa" href="https://wa.me/966540828049" target="_blank" rel="noopener" aria-label="تواصل عبر واتساب"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="واتساب" width="60" height="60"></a>
+<button id="top" aria-label="العودة لأعلى الصفحة"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button>
+ 
+<script>
+var B='https://i.postimg.cc/';
+var IMG=['pTnBPYpq/f1093aee-c414-4d5a-9a24-4f459350be81','L4LV7Dd6/90a5be38-f1e2-411d-82bc-bf3945ed04d6','bNR9Yvwq/9580abe9-ba93-4ff2-b591-44be99742330','6pjVR1Zf/42380e09-863e-4581-950a-8529a7b4102f','hGXL0bbt/c853fb0f-7837-4b2e-bd43-eaabff62232e','25g49b27/3ec06b2d-3c93-4468-9e4b-cd1a611ac8f9','tJNWgryY/71d5fc47-4984-44de-af6b-804acb45f5e4','dtJGfKm4/c6940f8c-5375-4c9c-9838-4d4f49377019','6p3n9LPW/effe88be-35fc-409a-9ccd-c21748ed9352','CxQDdnyJ/c3461bdc-d3e9-4169-b46a-a10b331cbad5','NM1rNNKz/8dbe6645-0d95-4d72-bb89-d8854f9e9c54','9XY7Zn57/f8b1d5b6-f43e-4a46-b89e-e35293b47506','dVLZMQ7z/699da01b-510a-4e91-a5f6-09731cdd5e02','MGBcTsmv/b9c6cac9-7167-42cd-a512-27038dd1b797','W36hmhyx/74dffe0b-3893-4ddc-a7c9-024a219b4527','sfmMvG76/0ae654b8-b740-4c64-bcbf-f1e26f0611bf','5NkjmcP4/3efd3b7c-a942-481f-b1a3-509ac0c0cf41','bw7JKxfc/ea8b539f-50cb-454a-b980-9c6abd6d9391','qR077pRH/fc2e7ce7-beeb-44b2-8585-fa2b827ad52e','tJvRDPNw/0de4e983-285b-44ec-a6c7-686c6d290893','kXDgG17p/6aba6656-7a3b-4d3a-a22a-dc81c831875d','W1kp6dqL/e3d5d0f1-2d54-4dea-b434-58d610329bbe','B6qq0NY4/09ab9602-dfc8-40fd-a2c9-637f7f8e86f8','J0Fmj81B/5df8e92e-a2d7-4910-a2e1-266f7dc1ec4e','nzRttx9r/4cdd5b52-2cda-43b8-9223-971458b302b2','cCvGxzQS/5ae0d10d-5afa-43c8-aa50-7c50bd0cc996','jq1rgsrB/ce0e125a-844c-43b8-95d4-f24d232afee1','FHy5H3JS/feace545-3056-4911-952a-67e4028267e5','HxLfzNv4/d0d218dd-3436-482b-bb6b-1b5f026ab123','GtWVcmLc/131ef13e-c038-42e0-93ec-617c9a123fe3','BZjvQ7Sr/c2fd923c-89f0-4ca6-9812-2eea0fd2cfbc','ry7wdGzx/032af692-b353-4bd3-a208-888a5868cc08','cLS1hsRv/cd1efb06-f823-4501-8006-b818e65a3b3f','s2fjFw0d/7c17ba16-4894-4058-96b1-14a147a501f1','mDJBHRLn/65129f38-e0ca-43c8-9866-72130255a696','L4gHMqDc/f53ff02d-d2fb-473a-b15c-153827a5f442','2Srmv0Yd/9b0649a3-eacb-44b5-879a-e81358884a6f','XvD0R3C2/36635726-5a6b-4680-8106-be05b47822ff','xCwVdRgD/21659a3e-f9ea-40b1-a82c-b368f03a4eca','Wz0Lqkff/1c69ac41-143e-44d5-a111-b80807b6f26f','GhJncvy5/738f7879-f24e-4430-bc68-d128f432fd6c','wjq8335k/a1e8aa7d-3cad-451c-b395-c41484b29cd5','rpsBCbP0/350597bf-5e19-4315-a709-8c0ad01d631d','ydS22RB8/6b242f9d-288f-4859-985f-d9a3368951ef','brxWwjsQ/c332ebca-4932-4663-854e-4911f0e96196','Y2YJ3Qbs/70107b7b-764b-4dd5-a95d-f0e4b32308c8','6p5gtgwM/66348215-42ee-4238-99e5-5b4785f505f4'].map(function(s){return B+s+'.jpg'});
+var G=[
+['الخيام والتبريد',['تأجير خيام أوروبية','تأجير مكيفات صحراوية','تأجير مكيفات فريون','تأجير مراوح']],
+['الطاولات',['تأجير طاولات طعام','تأجير طاولات طعام دائرية','تأجير طاولات طعام زجاج','تأجير طاولات طعام VIP','تأجير طاولات مدخل']],
+['الكراسي والكنب',['تأجير كراسي ملكي','تأجير كراسي VIP','تأجير كراسي مخمل','تأجير كراسي جلد أبيض','تأجير كراسي شفاف','تأجير كنب نسائي']],
+['الكوشات والإنارة والزل',['تأجير كوشات أفراح','تزيين مداخل','تأجير عقود إنارة','تأجير زل','تأجير فرشات زل أزرق']],
+['التجهيز والتنظيم',['تجهيز حفلات','تجهيز مناسبات','تنظيم حفلات','تنظيم مناسبات','تنظيم زواجات','تنظيم أعراس']]
+];
+var i=1,html='';
+function img(src,alt,lazy){return '<img src="'+src+'" alt="'+alt+'" width="600" height="400"'+(lazy?' loading="lazy"':'')+'>'}
+G.forEach(function(g){
+  var pics=IMG.slice(i,i+3);i+=3;
+  html+='<div class="grp"><div><h3>'+g[0]+'</h3><div class="chips">'+g[1].map(function(x){return '<span>'+x+'</span>'}).join('')+'</div></div><div class="strip">'+pics.map(function(p){return img(p,g[0]+' - ولا غلطة',1)}).join('')+'</div></div>';
+});
+document.getElementById('groups').innerHTML=html;
+document.getElementById('hero').style.backgroundImage='url('+IMG[0]+')';
+document.getElementById('gal').innerHTML=IMG.slice(i).map(function(p){return img(p,'من أعمال ولا غلطة لتجهيز الحفلات والمناسبات',1)}).join('');
+var t=document.getElementById('top');
+addEventListener('scroll',function(){t.classList.toggle('show',scrollY>500)},{passive:true});
+t.addEventListener('click',function(){scrollTo({top:0})});
+</script>
+</body>
+</html>
