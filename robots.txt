@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://walagaltah.store/sitemap.xml
